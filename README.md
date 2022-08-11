@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritalee1
-- 👀 I’m interested in ...Wed development
-- 🌱 I’m currently learning ...Web development
+- 👀 I’m interested in ...Software Engineering
+- 🌱 I’m currently learning ...Software Engineering
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...pamsmonde@gmail.com
 
