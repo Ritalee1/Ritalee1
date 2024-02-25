@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritalee1
-- 👀 I’m interested in ...Software Engineering
-- 🌱 I’m currently learning ...Software Engineering
+- 👀 I’m interested in ...Data Science
+- 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...pamsmonde@gmail.com
 
