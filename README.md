@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ritalee1
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Data Science
+- 🌱 I’m a Data Scientist
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...pamsmonde@gmail.com
 
