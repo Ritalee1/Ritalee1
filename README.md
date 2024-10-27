@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ritalee1
-- 🌱 I’m a Data Scientist
+- 🌱 I’m a Data Scientist, Project Manager, Business Intelligence Analyst and Cybersecurity Analyst
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...pamsmonde@gmail.com
 
