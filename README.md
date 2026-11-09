@@ -1,6 +1,9 @@
 👋 Hi, I'm @Ritalee1
+
 🤖 AI Engineer | Agentic AI & Machine Learning | Python | Data Science
+
 🚀 Building AI-powered applications, intelligent agents, and data-driven solutions.
+
 🤝 Open to collaborating on AI engineering, machine learning, and open-source projects.
 
 <!---
