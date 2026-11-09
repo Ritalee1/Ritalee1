@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ritalee1
-- 🌱 I’m an AI/Machine Learning Engineer, Data Scientist, Scrum Master and Project Manager
-- 💞️ I’m looking to collaborate on ...github
-- 📫 How to reach me ...pamsmonde@gmail.com
+👋 Hi, I'm @Ritalee1
+🤖 AI Engineer | Agentic AI & Machine Learning | Python | Data Science
+🚀 Building AI-powered applications, intelligent agents, and data-driven solutions.
+🤝 Open to collaborating on AI engineering, machine learning, and open-source projects.
 
 <!---
 Ritalee1/Ritalee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
